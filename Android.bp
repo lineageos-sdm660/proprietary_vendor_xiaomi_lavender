@@ -23759,7 +23759,7 @@ cc_prebuilt_library_shared {
                 "liblog",
                 "libc++",
                 "libcutils",
-                "libhidlbase",
+                "libhidlbase-v32",
                 "libhwbinder",
                 "libutils",
                 "libhidltransport",
