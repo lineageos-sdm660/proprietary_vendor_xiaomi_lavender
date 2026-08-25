@@ -987,6 +987,7 @@ PRODUCT_PACKAGES += \
     libgf_ca \
     libgf_hal \
     libgoodixhwfingerprint \
+    libnotifyaudiohal \
     libqfp-service \
     libthermalfeature \
     libthermalioctl \
