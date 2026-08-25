@@ -363,7 +363,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/hw/camera.sdm660.so",
             ],
             shared_libs: [
-                "libcamera_sdm660_shim",
+                "libui_shim",
                 "liblog",
                 "libhardware",
                 "libutils",
