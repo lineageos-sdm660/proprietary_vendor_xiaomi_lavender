@@ -984,10 +984,13 @@ PRODUCT_PACKAGES += \
     libvidhance_gyro \
     fingerprint.fpc.default \
     fingerprint.goodix.default \
+    libcpion \
     libgf_ca \
     libgf_hal \
     libgoodixhwfingerprint \
+    libhdcpsrm \
     libnotifyaudiohal \
+    liboemcrypto \
     libqfp-service \
     libthermalfeature \
     libthermalioctl \
